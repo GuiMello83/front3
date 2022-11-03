@@ -1,13 +1,15 @@
 import { Login } from './pages/Login'
-import { SegundaAula } from './aulas/SegundaAula'
-import { TerceiraAula } from './aulas/TerceiraAula'
+import { SetimaAula } from './aulas/07AulaDesafio'
+import { InstagramTimeLine } from './challenges'
+import { DhGames } from './pages/DHGAMES'
+
 
 function App() {
 
   return (
     <>  
-    {/*  <SegundaAula /> */} 
-   <TerceiraAula />
+    
+   <SetimaAula />
     </>
   )
 }
