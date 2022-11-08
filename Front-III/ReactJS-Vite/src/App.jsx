@@ -1,5 +1,5 @@
 import { Login } from './pages/Login'
-import { SetimaAula } from './aulas/07AulaDesafio'
+import { OitavaAula } from './aulas/08Aula'
 import { InstagramTimeLine } from './challenges'
 import { DhGames } from './pages/DHGAMES'
 
@@ -9,7 +9,7 @@ function App() {
   return (
     <>  
     
-   <SetimaAula />
+   <OitavaAula />
     </>
   )
 }
