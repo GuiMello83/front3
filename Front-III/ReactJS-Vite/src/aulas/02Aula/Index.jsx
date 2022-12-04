@@ -6,7 +6,10 @@ export function SegundaAula() {
             <h1>Segunda Aula</h1>
             <h2>Projeto escolhido: Globo esporte</h2>
             <ul>
-                <li></li>
+                <li>
+                    <h1>Primeiro Componente</h1>
+                    <p></p>
+                </li>
             </ul>
         </main>
     )

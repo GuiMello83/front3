@@ -2,7 +2,7 @@ import { useState } from 'react'
 import './style.scss'
 import { SetimaAulaCardProduto } from "./../../components/SetimaAulaCardProduto"
 
-export function SetimaAula() {
+export function SetimaAulaDesafio() {
 
     const [allProducts, setAllProducts] = useState(
         [
